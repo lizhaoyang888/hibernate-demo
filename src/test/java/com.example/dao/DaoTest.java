@@ -9,7 +9,7 @@ public class DaoTest {
 
     @Test
     public void regist(){
-        userDao.add(111,"习近平");
+        userDao.add(6625,"习近平");
     }
 
     @After
